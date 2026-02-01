@@ -46,24 +46,15 @@
 
 - How to reach me **timderzhavets@gmail.com**
 
-<!-- - Explore my **[Knowledge Graph / Skills Mindmap](YOUR_WEBSITE_URL/mindmap)** -->
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tim-derzhavets/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tim Derzhavets LinkedIn" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~010981b7e4aabbf76c?mp_source=share" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="Tim Derzhavets Upwork" height="30" width="40" /></a>
+<a href="https://timderzhavets.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="Tim Derzhavets Website" height="30" width="40" /></a>
 </p>
 
 <br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CPUtester5465&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -129,16 +120,6 @@
 <h3 align="left">Activity Graph:</h3>
 
 [![Tim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CPUtester5465&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Snake eating my contributions:</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CPUtester5465/CPUtester5465/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CPUtester5465/CPUtester5465/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/CPUtester5465/CPUtester5465/output/github-snake.svg" />
-</picture>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
