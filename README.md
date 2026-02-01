@@ -51,7 +51,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tim-derzhavets/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tim Derzhavets LinkedIn" height="30" width="40" /></a>
-<a href="https://timderzhavets.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/512317/globe-1122.svg" alt="Tim Derzhavets Website" height="30" width="30" /></a>
+<a href="https://timderzhavets.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-timderzhavets.com-blue?style=flat&logo=google-chrome&logoColor=white" alt="Tim Derzhavets Website" /></a>
 </p>
 
 <br>
