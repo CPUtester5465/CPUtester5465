@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Senior%20Cloud%20Engineer;Lead%20DevOps%20Engineer;AWS%20%7C%20Kubernetes%20%7C%20CI/CD%20Expert;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=9400D3&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer%20%7C%205%2B%20Years;AWS%20%7C%20GCP%20%7C%20Azure%20Expert;Kubernetes%20%26%20CI/CD%20Specialist;AI%20Integration%20%26%20MCP%20Enthusiast;Python%20%7C%20TypeScript%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=9400D3&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -13,24 +13,14 @@
   <img src="https://img.shields.io/github/followers/CPUtester5465?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<p align="center">I am captivated by the transformative impact of computer technology on our lives, with once unimaginable changes. The continuous evolution of computer science from an early age inspired me to pursue a career in DevOps and Systems Engineering. My passion has only grown over time, fueled by my eagerness to explore new tech stacks and leverage them to architect and optimize robust systems.</p>
+<p align="center">DevOps Engineer with 5+ years of experience in Design, Implementation, and Maintaining cloud infrastructure. Passionate about AI integration, MCP (Model Context Protocol), and building robust systems across AWS, GCP, and Azure.</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -38,11 +28,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- I'm currently working on **3Doptix** as a **Lead DevOps Engineer** but also love helping people and commands as a Freelancer.
+- Currently working at **Sibli** in Toronto, Canada
 
-- I'm specify my experience in End2End **AWS** **Kubernetes** - **Design** **Implement** **Troublshooting** **Monitoring** and much more!
+- Specializing in **Cloud Infrastructure**, **Kubernetes**, **CI/CD**, and **AI Integration**
 
-- Ask me about **Cloud, Linux, Containers, Virtualization, and DevOps**
+- Building with **MCP (Model Context Protocol)**, **Python**, and **TypeScript**
+
+- Ask me about **DevOps, Cloud, Containers, and AI Automation**
 
 - How to reach me **timderzhavets@gmail.com**
 
@@ -55,54 +47,6 @@
 </p>
 
 <br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Languages and Tools:</h3>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare" />
-  </a>
-</p>
-
-- DevOps & Containers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible" />
-  </a>
-</p>
-
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,nodejs,bash" />
-  </a>
-</p>
-
-- Monitoring & Logging
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vim,vscode" />
-  </a>
-</p>
-
-<br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
