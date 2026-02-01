@@ -50,23 +50,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-
-![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPUtester5465&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CPUtester5465&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Activity Graph:</h3>
-
-[![Tim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CPUtester5465&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
